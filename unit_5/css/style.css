@@ -1,0 +1,108 @@
+* {
+	padding: 0;
+	margin: 0;
+	
+}
+
+body {
+	font-family: "Muli", sans-serif;
+	line-height: 1.5;
+	color: #666;
+	background: #FDFAF5;
+}
+
+h1, h2, h3 {
+	font-family: "ovo", serif;
+	font-size: 20px;
+	font-weight: 300;
+	color: #C0B6A5
+}
+
+h1 {
+	color: #C0B6A5;
+}
+
+p {
+	font-family: "muli", sans-serif;
+	font-size: 12px;
+	line-height: 1.5;
+	color: #666;
+
+}
+
+a {
+	color: #C0B6A5;
+	text-decoration: none;
+}
+
+Header {
+	margin: 0px 0 0 0;
+	text-align: center;
+	background-color: #FFED74;
+
+}
+
+Nav {
+	text-align: center;
+	font-size: 14px ;
+	color: #FDFAF5;
+	background: #E8C66A;
+	padding: 20px;
+	
+}
+
+Nav a {
+	color: #FDFAF5;
+	padding: 25px 25px;
+}
+	
+
+main {
+	margin: 25px 25px;
+	background: #FFE2B8;
+	width: 750px;
+	margin: 0 250px;
+	clear: both;
+
+
+}
+#feature {
+	padding: 20px;
+	margin: 10px 10px;
+		
+}
+
+#one {
+	width: 750px;
+	margin: 20px 0;
+	height: 506px;
+	
+}
+
+article {
+	
+	padding: 20px;
+	float: left;
+	background: #E89C6C;
+	width: 400px;
+	
+
+}
+
+
+aside {
+	float: right;
+	padding: 20px;
+	background: #FFC675;
+	width: 260px;
+	height: 92%;
+	
+	
+
+	
+
+}
+
+#wrapper {
+	width: 1080px;
+}
