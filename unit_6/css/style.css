@@ -1,0 +1,195 @@
+* {
+	padding: 0;
+	margin: 0;
+	
+}
+
+body {
+	font-family: "Muli", sans-serif;
+	line-height: 1.5;
+	color: #666;
+	position: relative;
+}
+
+h1, h3 {
+	font-family: "ovo", serif;
+}
+
+h3 {
+	font-size: 30px;
+	letter-spacing: 2px;
+}
+
+h5 {
+	font-size: 12px;
+	letter-spacing: 2px;
+	font-style: italic;
+}
+
+p {
+	font-family: "muli", sans-serif;
+	font-size: 12px;
+	line-height: 1.5;
+	color: #666;
+
+}
+
+a {
+	
+	text-decoration: none;
+	color: #B5AAA7;
+}
+
+Header {
+	margin: 0px 0 0 0;
+	text-align: center;
+	background-color: #FFF;
+	padding: 10px;
+
+}
+
+Nav {
+	text-align: center;
+	font-size: 14px ;
+	color: #FDFAF5;
+	background: #C9C2C1;
+	padding: 20px;
+
+	
+}
+
+Nav a {
+	color: #FDFAF5;
+	padding: 25px 25px;
+}
+
+section: {
+	padding: 50px 0;
+}
+	
+#blog_title {
+	color: #B5AAA7;
+	font-size: 40px;
+	font-weight: 800;
+	color: #D3CFCB;
+	padding: 1px 1px auto auto;
+	line-height: 1.5;
+
+}
+
+#slogan {
+	font-family: "muli", sans-serif;
+	font-size: 14px;
+	color: #D3CFCB;
+	font-style: italic;
+	letter-spacing: 2px;
+	line-height: 1.5;
+}
+.wrapper {
+	width: 80%;
+	margin: auto;
+
+}
+
+.feature_post {
+	
+	background: url(../images/baroque-flowers.jpg);
+	position: relative;
+	background-repeat: no-repeat;
+	background-position: center;
+	display: block;
+	margin: 20px auto;
+	padding: 500px 0 0 0;
+	width: 90%;
+	
+	
+}
+
+.feature_post a {
+
+	color: #FDFAF5;
+}
+
+#feature_tab {
+	position: absolute;
+	top: 70%;
+	left: 25%;
+	
+	background: #B5AAA7;
+	padding: 5px;
+	display: inline;
+	font-size: 10px;
+	letter-spacing: 2px;
+	
+
+}
+
+
+
+#feature_titlesig {
+	position: absolute;
+	top: 76%;
+	left: 25%;
+	line-height: 1.5;
+	color: #FDFAF5;
+	display: inline;
+
+}
+	
+	
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+
+article {
+	background-color: #FFF;
+	padding: 5px 0 ;
+	float: left;
+	display: block;
+	width: 50%;
+	margin: auto;
+
+	
+}
+
+
+#himba {
+	width: 85%;
+
+}
+
+
+aside {
+	background-color: #FFF;
+	padding: 20px 0;
+	float: right;
+	display: block;
+	line-height: 1.5em;
+	width: 39%;
+	margin: auto;
+
+
+}
+
+li img {
+float: left;
+width: 100px;
+padding-right: 10px;
+
+}
+
+li {
+padding: 10px;
+overflow: auto;
+}
+
+
+
+
